@@ -53,3 +53,15 @@ header {
     display: block;
     text-align: center;
 }
+
+.lista-vertical a:hover {
+    background-color: var(--azul);
+}
+
+#menu-toggle:checked ~ .lista-vertical {
+    display: block;
+}
+
+#menu-toggle:checked + .botao-disciplinas {
+    background-color: var(--preto);
+}
