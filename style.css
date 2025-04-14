@@ -13,6 +13,7 @@ header {
     position: relative;
     background-color: var(--azul);
     justify-content: center;
+    box-shadow: 0 4px 4px var(--preto);
 }
 .menu-disciplina {
     display: inline-block;
