@@ -17,11 +17,6 @@ header {
     width: 20%;
 }
 
-.lista-vertical {
-    display: none;
-
-}
-
 #menu.toggle {
     display: none;
 }
@@ -36,3 +31,5 @@ header {
     padding: 1.05rem 1.5rem;
     color: var(--rosa);
 }
+
+.
