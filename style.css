@@ -39,7 +39,7 @@ header {
     display: none;
     position: absolute;
     background-color: var(--bege-claro);
-    box-shadow: 0 5px 5px var(--preto);
+    box-shadow: 5px 5px 5px var(--preto);
     min-width: 190px;
     z-index: 1;
     left: 1rem;
