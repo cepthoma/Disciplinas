@@ -17,7 +17,7 @@ header {
     width: 20%;
 }
 
-#menu.toggle {
+#menu-toggle {
     display: none;
 }
 
@@ -32,4 +32,3 @@ header {
     color: var(--rosa);
 }
 
-.
