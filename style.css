@@ -33,7 +33,6 @@ header {
     border: none;
     padding: 1.05rem 1.5rem;
     color: var(--rosa);
-    box-shadow: inset 2px 2px 2px var(--bege-claro);
 }
 
 .lista-vertical {
