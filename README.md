@@ -1,2 +1,0 @@
-# Disciplinas
-projeto 1 
