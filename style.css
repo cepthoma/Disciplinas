@@ -65,4 +65,40 @@ header {
 
 #menu-toggle:checked + .botao-disciplinas {
     background-color: var(--preto);
+} 
+
+.barra-pesquisa {
+    width: 50%;
+}
+
+.barra-pesquisa input {
+    width: 60%;
+    padding: 0.5rem;
+    border-radius: 1rem;
+}
+
+
+.links-principais {
+    width: 80%;
+    display: flex;
+    justify-content: flex-end; 
+    align-items: center;
+}
+
+
+.lista-horizontal {
+    list-style: none;
+    display: flex;
+    font-size: 2rem;
+    gap: 4rem; 
+}
+
+
+a {
+    text-decoration: none;
+    color: var(--amarelo-claro);
+}
+
+a:hover {
+    color: var(--preto);
 }
