@@ -31,7 +31,7 @@ header {
     background: none;
     background-color: var(--verde);
     border: none;
-    padding: 5rem 5rem;
+    padding: 2rem 2rem;
     color: var(--rosa);
     display: flex;
     gap: 4rem; 
