@@ -33,6 +33,9 @@ header {
     border: none;
     padding: 1rem 1rem;
     color: var(--rosa);
+    display: flex;
+    font-size: 2rem;
+    gap: 4rem; 
 }
 
 .lista-vertical {
@@ -100,5 +103,5 @@ a {
 }
 
 a:hover {
-    color: var(--preto);
+    color: var(--bege-claro);
 }
