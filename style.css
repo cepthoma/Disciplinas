@@ -34,8 +34,7 @@ header {
     padding: 1rem 1rem;
     color: var(--rosa);
     display: flex;
-    font-size: 2rem;
-    gap: 6rem; 
+    gap: 2rem; 
 }
 
 .lista-vertical {
