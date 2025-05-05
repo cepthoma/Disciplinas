@@ -27,11 +27,11 @@ header {
 
 .botao-disciplinas {
     cursor: pointer;
-    font-size: 2rem;
+    font-size: 1rem;
     background: none;
     background-color: var(--verde);
     border: none;
-    padding: 2rem 2rem;
+    padding: 1rem 1rem;
     color: var(--rosa);
 }
 
