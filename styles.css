@@ -21,7 +21,7 @@ body{
     height: 100vh;
     box-sizing: border-box;
     background-color: var(--body);
-    color: var(--preto);
+    color: var(--azul-claro);
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
 }
