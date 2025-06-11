@@ -57,7 +57,7 @@ main {
 .disciplina {
     display: flex;
     justify-content: center;
-    background-color: var(--preto);
+    background-color: var(--azul-claro);
     border-radius: 10px;
     padding: 30px;
     width: 80%;
