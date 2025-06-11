@@ -6,19 +6,21 @@
 
 :root{
     --preto: #000000;
-    --marinho: #9e3d3d;
+    --header: #9e3d3d;
     --amarelo-claro:#FFF2AF;
     --roxo-claro:#B2A5FF;
     --verde: #3366d4;
     --azul-claro: #E4EFE7;
     --branco: #ffffff;
     --marron-claro: #FAF1E6;
+    --body: #531414;
+
 }
 
 body{
     height: 100vh;
     box-sizing: border-box;
-    background-color: var(--marinho);
+    background-color: var(--body);
     color: var(--preto);
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
@@ -27,7 +29,7 @@ body{
 header {
     display: flex; 
     width: 100%;
-    background-color: var(--roxo-claro);
+    background-color: var(--header);
     padding: 1rem;
     justify-content: center;
     box-shadow: 4px 4px 4px;
