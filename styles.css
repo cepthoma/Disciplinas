@@ -27,7 +27,7 @@ body{
 header {
     display: flex; 
     width: 100%;
-    background-color: var(--marinho);
+    background-color: var(--roxo-claro);
     padding: 1rem;
     justify-content: center;
     box-shadow: 4px 4px 4px;
@@ -35,7 +35,7 @@ header {
 
 .portfolio h1{
     font-size: 4rem;
-    color: var(--preto);
+    color: var(--verde);
 }
 main {
     margin: 40px auto;
