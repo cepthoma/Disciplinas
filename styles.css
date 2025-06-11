@@ -30,7 +30,7 @@ header {
     background-color: var(--marinho);
     padding: 1rem;
     justify-content: center;
-   box-shadow: #5b5869;
+  box-shadow: 4px 4px 4px;
 }
 
 .portfolio h1{
